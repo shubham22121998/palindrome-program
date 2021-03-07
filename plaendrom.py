@@ -9,5 +9,5 @@ def plendrom(num):
         print(temp,"is plemdrom")
     else:
         print(temp,"is not plendrom")        
-num=1234
+num=2112
 plendrom(num)        
